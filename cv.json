@@ -1,0 +1,395 @@
+{
+  "basics": {
+    "name": "Brayan Gatica Gutierrez",
+    "label": "Full Stack Developer con más de 2 años de experiencia & comprometido con el aprendizaje continuo y la colaboración en proyectos tecnológicos.",
+    "image": "/me.JPG",
+    "email": "b@gmail.com",
+    "phone": "+56 9 71786739",
+    "url": "https://brayangatica.com",
+    "summary": "Estudiante de último año de Ingeniería Informática con +2 años de experiencia como Desarrollador Web. Actualmente soy Front-End Developer para una pequeña startup en Chile. Vivo en Concepción, Chile. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta aportar en la toma de decisiones técnicas y resolución de problemas internos del equipo.",
+    "location": {
+      "address": "",
+      "postalCode": "4050000",
+      "city": "Concepción",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "brayangatica",
+        "url": "https://www.linkedin.com/in/brayan-gatica-gutierrez-702b1026b/"
+      },
+      {
+        "network": "GitHub",
+        "username": "ibrayann",
+        "url": "https://github.com/ibrayann"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Monbak",
+      "position": "Front-End Developer",
+      "url": "https://www.monbak.com",
+      "startDate": "2023-03-20",
+      "endDate": null,
+      "summary": "Desarrollo de soluciones web personalizadas como Front-End Developer en una empresa chilena dedicada a crear software a medida para diversos sectores empresariales. Monbak se especializa en transformar ideas de negocio en soluciones digitales que optimizan procesos y mejoran la eficiencia operativa.",
+      "highlights": [
+        "Diseño e implementación de interfaces centradas en el usuario (UI/UX) para mejorar la interacción y retención de usuarios.",
+        "Desarrollo de aplicaciones web y móviles personalizadas adaptadas a las necesidades específicas de cada cliente.",
+        "Colaboración en un modelo SaaS (Software as a Service) con enfoque en soluciones escalables y de mejora continua.",
+        "Participación en el proceso completo desde el entendimiento del negocio del cliente hasta la implementación de soluciones digitales innovadoras."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Duoc UC",
+      "position": "Tutor Modelamiento de Base de Datos",
+      "url": "https://www.duoc.cl/",
+      "startDate": "2022-01-02",
+      "endDate": "2022-01-02",
+      "summary": "Encargado de apoyar a estudiantes en el aprendizaje y comprensión de la asignatura de Modelamiento de Base de Datos, resolviendo dudas teóricas y prácticas, y reforzando el uso de herramientas como Oracle.",
+      "highlights": [
+        "Oracle",
+        "Modelamiento entidad-relación",
+        "Normalización de bases de datos"
+      ]
+    },
+    {
+      "organization": "Duoc UC",
+      "position": "Tutor Programación Orientada a Objetos",
+      "url": "https://duoc.cl/",
+      "startDate": "2023-01-02",
+      "endDate": "2023-01-02",
+      "summary": "Apoyo académico a estudiantes en la asignatura de Programación Orientada a Objetos, facilitando la comprensión de conceptos clave como clases, herencia y encapsulamiento, con foco en el lenguaje Java.",
+      "highlights": [
+        "Java",
+        "POO",
+        "Resolución de ejercicios prácticos"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Profesional Duoc UC",
+      "url": "https://www.duoc.cl",
+      "area": "Escuela de Informática y Telecomunicaciones",
+      "studyType": "Ingeniería en Informática",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "Análisis y planificación de requerimientos informáticos",
+        "Gestión de proyectos informáticos",
+        "Programación de software",
+        "Inteligencia de negocios",
+        "Análisis y desarrollo de modelos de datos",
+        "Arquitectura de software",
+        "Calidad de software",
+        "Inglés intermedio alto"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Análisis y Planificación de Requerimientos Informáticos",
+      "date": "2023-01-02",
+      "issuer": "Duoc UC",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Análisis y Desarrollo de Modelos de Datos",
+      "date": "2023-01-02",
+      "issuer": "Duoc UC",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Calidad de Software",
+      "date": "2023-01-02",
+      "issuer": "Duoc UC",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Programación de Software",
+      "date": "2023-01-02",
+      "issuer": "Duoc UC",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Arquitectura de Software",
+      "date": "2024-01-02",
+      "issuer": "Duoc UC",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Certificación Internacional en Inglés - Nivel Intermedio Alto",
+      "date": "2024-01-02",
+      "issuer": "Duoc UC",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Medio",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Boticario",
+      "isActive": true,
+      "description": "Gestor de inventario para un dispensario, control de usuarios, dispensaciones y envios etc.",
+      "highlights": [
+        "Operativo",
+        "React",
+        "Zustand",
+        "shadcn UI",
+        "Axios",
+        "tailwind"
+      ],
+      "url": null
+    },
+    {
+      "name": "Finnwey",
+      "isActive": false,
+      "description": "Sistema de gestión de finanzas personales con IA integrada para recomendaciones futuraa",
+      "highlights": [
+        "En desarrollo",
+        "React Native",
+        "Expo",
+        "Nativewind",
+        "Supabase"
+      ],
+      "url": null
+    },
+    {
+      "name": "Gestor de citas médicas",
+      "isActive": true,
+      "description": "Sistema de gestión de citas médicas para una clínica",
+      "highlights": [
+        "Finalizado",
+        "Django",
+        "Python",
+        "Bootstrap",
+        "Flask"
+      ],
+      "url": null
+    },
+    {
+      "name": "Monbak",
+      "isActive": true,
+      "description": "Web oficial de Monbak, una empresa chilena dedicada a la creación de software a medida para diversos sectores empresariales.",
+      "highlights": [
+        "Operativo",
+        "Astro",
+        "Tailwind",
+        "TypeScript"
+      ],
+      "url": "https://monbak.com",
+      "github": "https://github.com/ibrayann/monbak"
+    },
+    {
+      "name": "Aquacore",
+      "isActive": true,
+      "description": "Web oficial de Aquacore, proceso de reestructuración de la empresa Suralis Chile.",
+      "highlights": [
+        "Operativo",
+        "React",
+        "Tailwind",
+        "TypeScript",
+        "Motion JS"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "Registro de asistencia",
+      "description": "Sistema de registro de asistencia para institución estudiantil con codigo qr",
+      "highlights": [
+        "fianlizado",
+        "Ionic",
+        "Bootstrap",
+        "Firabase"
+      ],
+      "url": "https://miduconf.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    }
+  ]
+}
