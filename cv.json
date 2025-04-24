@@ -88,7 +88,7 @@
         "Análisis y desarrollo de modelos de datos",
         "Arquitectura de software",
         "Calidad de software",
-        "Inglés intermedio alto"
+        "Inglés intermedio"
       ]
     }
   ],
@@ -105,37 +105,37 @@
       "name": "Análisis y Planificación de Requerimientos Informáticos",
       "date": "2023-01-02",
       "issuer": "Duoc UC",
-      "url": "https://certificate.com"
+      "url": null
     },
     {
       "name": "Análisis y Desarrollo de Modelos de Datos",
       "date": "2023-01-02",
       "issuer": "Duoc UC",
-      "url": "https://certificate.com"
+      "url": null
     },
     {
       "name": "Calidad de Software",
       "date": "2023-01-02",
       "issuer": "Duoc UC",
-      "url": "https://certificate.com"
+      "url": null
     },
     {
       "name": "Programación de Software",
       "date": "2023-01-02",
       "issuer": "Duoc UC",
-      "url": "https://certificate.com"
+      "url": null
     },
     {
       "name": "Arquitectura de Software",
       "date": "2024-01-02",
       "issuer": "Duoc UC",
-      "url": "https://certificate.com"
+      "url": null
     },
     {
       "name": "Certificación Internacional en Inglés - Nivel Intermedio Alto",
       "date": "2024-01-02",
       "issuer": "Duoc UC",
-      "url": "https://certificate.com"
+      "url": null
     }
   ],
   "publications": [
