@@ -3,7 +3,7 @@
     "name": "Brayan Gatica Gutierrez",
     "label": "Full Stack Developer con más de 2 años de experiencia & comprometido con el aprendizaje continuo y la colaboración en proyectos tecnológicos.",
     "image": "/me.JPG",
-    "email": "b@gmail.com",
+    "email": "br.gaticag@gmail.com",
     "phone": "+56 9 71786739",
     "url": "https://brayangatica.com",
     "summary": "Estudiante de último año de Ingeniería Informática con +2 años de experiencia como Desarrollador Web. Actualmente soy Front-End Developer para una pequeña startup en Chile. Vivo en Concepción, Chile. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta aportar en la toma de decisiones técnicas y resolución de problemas internos del equipo.",
@@ -362,8 +362,7 @@
         "Tailwind",
         "TypeScript"
       ],
-      "url": "https://monbak.com",
-      "github": "https://github.com/ibrayann/monbak"
+      "url": "https://monbak.com"
     },
     {
       "name": "Aquacore",
@@ -376,8 +375,7 @@
         "TypeScript",
         "Motion JS"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://pruebastecnicas.com"
     },
     {
       "name": "Registro de asistencia",
@@ -387,9 +385,7 @@
         "Ionic",
         "Bootstrap",
         "Firabase"
-      ],
-      "url": "https://miduconf.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      ]
     }
   ]
 }
