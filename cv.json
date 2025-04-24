@@ -329,7 +329,7 @@
     {
       "name": "Finnwey",
       "isActive": false,
-      "description": "Sistema de gestión de finanzas personales con IA integrada para recomendaciones futuraa",
+      "description": "Sistema de gestión de finanzas personales con IA integrada para recomendaciones futuras.",
       "highlights": [
         "En desarrollo",
         "React Native",
@@ -342,7 +342,7 @@
     {
       "name": "Gestor de citas médicas",
       "isActive": true,
-      "description": "Sistema de gestión de citas médicas para una clínica",
+      "description": "Sistema de gestión de citas médicas para una clínica.",
       "highlights": [
         "Finalizado",
         "Django",
@@ -379,9 +379,9 @@
     },
     {
       "name": "Registro de asistencia",
-      "description": "Sistema de registro de asistencia para institución estudiantil con codigo qr",
+      "description": "Sistema de registro de asistencia para institución estudiantil con codigo QR.",
       "highlights": [
-        "fianlizado",
+        "Finalizado",
         "Ionic",
         "Bootstrap",
         "Firabase"
