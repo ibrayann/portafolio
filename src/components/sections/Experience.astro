@@ -36,6 +36,13 @@ import { work, volunteer } from '@cv'
 
               <footer>
                 <p>{summary}</p>
+                {highlights && highlights.length > 0 && (
+                  <ul class="highlights">
+                    {highlights.map((highlight) => (
+                      <li>{highlight}</li>
+                    ))}
+                  </ul>
+                )}
               </footer>
             </article>
           </li>
@@ -78,6 +85,13 @@ import { work, volunteer } from '@cv'
 
               <footer>
                 <p>{summary}</p>
+                {highlights && highlights.length > 0 && (
+                  <ul class="highlights">
+                    {highlights.map((highlight) => (
+                      <li>{highlight}</li>
+                    ))}
+                  </ul>
+                )}
               </footer>
             </article>
           </li>
@@ -158,6 +172,36 @@ import { work, volunteer } from '@cv'
 
   [data-title] {
     position: relative;
+  }
+
+  footer {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .highlights {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .highlights li {
+    color: #666;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    padding-left: 16px;
+    position: relative;
+  }
+
+  .highlights li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: #999;
   }
 
   @media (width <= 700px) {

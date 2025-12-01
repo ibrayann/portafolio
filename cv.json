@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Brayan Gatica Gutierrez",
-    "label": "Full Stack Developer con más de 2 años de experiencia & comprometido con el aprendizaje continuo y la colaboración en proyectos tecnológicos.",
+    "label": "Frontend Developer | React & Next.js | Supabase & AI Integrations | Product-Oriented",
     "image": "/me.JPG",
     "email": "br.gaticag@gmail.com",
     "phone": "+56 9 71786739",
     "url": "https://brayangatica.com",
-    "summary": "Estudiante de último año de Ingeniería Informática con +2 años de experiencia como Desarrollador Web. Actualmente soy Front-End Developer para una pequeña startup en Chile. Vivo en Concepción, Chile. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta aportar en la toma de decisiones técnicas y resolución de problemas internos del equipo.",
+    "summary": "Desarrollador Full Stack con +2 años de experiencia construyendo productos digitales escalables. Especializado en el ecosistema React (Next.js, Expo) y arquitecturas modernas con Supabase.\n\nMe diferencio por tener mentalidad de producto: no solo escribo código, sino que diseño soluciones eficientes enfocadas en la experiencia de usuario y el negocio. Busco desafíos remotos donde pueda aportar valor técnico inmediato.",
     "location": {
       "address": "",
       "postalCode": "4050000",
@@ -34,12 +34,12 @@
       "url": "https://www.monbak.com",
       "startDate": "2023-03-20",
       "endDate": null,
-      "summary": "Desarrollo de soluciones web personalizadas como Front-End Developer en una empresa chilena dedicada a crear software a medida para diversos sectores empresariales. Monbak se especializa en transformar ideas de negocio en soluciones digitales que optimizan procesos y mejoran la eficiencia operativa.",
+      "summary": "Desarrollador líder en el ciclo completo de múltiples proyectos críticos, abarcando desde la arquitectura inicial y migración tecnológica hasta el despliegue en producción.",
       "highlights": [
-        "Diseño e implementación de interfaces centradas en el usuario (UI/UX) para mejorar la interacción y retención de usuarios.",
-        "Desarrollo de aplicaciones web y móviles personalizadas adaptadas a las necesidades específicas de cada cliente.",
-        "Colaboración en un modelo SaaS (Software as a Service) con enfoque en soluciones escalables y de mejora continua.",
-        "Participación en el proceso completo desde el entendimiento del negocio del cliente hasta la implementación de soluciones digitales innovadoras."
+        "Arquitectura de Sistemas & Scalability: Diseñé desde cero la arquitectura Frontend para plataformas de gestión empresarial utilizando React, Tailwind y Zustand. Implementé estrategias de testing con Jest y optimización de caché con React Query.",
+        "Cloud Migration & Integraciones Fintech: Lideré la migración de sistemas locales a la nube (AWS), implementando Amazon S3 y AWS Textract para el procesamiento inteligente de documentos e integración de pasarelas de pago (Webpay).",
+        "Modernización de Legacy (Refactoring): Ejecuté la refactorización de sistemas críticos, migrando bases de código de React Class Components a Hooks y Arquitectura Funcional, mejorando la mantenibilidad y rendimiento.",
+        "Desarrollo Web de Alto Rendimiento: Creación de portales corporativos optimizados utilizando Astro y Framer Motion, logrando métricas sobresalientes en Core Web Vitals."
       ]
     }
   ],
@@ -78,7 +78,7 @@
       "area": "Escuela de Informática y Telecomunicaciones",
       "studyType": "Ingeniería en Informática",
       "startDate": "2022-03-01",
-      "endDate": null,
+      "endDate": "2025-12-31",
       "score": "4.0",
       "courses": [
         "Análisis y planificación de requerimientos informáticos",
@@ -149,6 +149,160 @@
   ],
   "skills": [
     {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "React Native",
+      "level": "Medio",
+      "keywords": [
+        "Mobile Development",
+        "Expo",
+        "Cross-platform",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "State Management",
+        "UI"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Shadcn/ui",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "UI Components",
+        "Design System"
+      ]
+    },
+    {
+      "name": "Supabase",
+      "level": "Medio",
+      "keywords": [
+        "Backend",
+        "Database",
+        "Authentication",
+        "Realtime",
+        "BaaS"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Medio",
+      "keywords": [
+        "Cloud Computing",
+        "Infrastructure",
+        "S3",
+        "Textract",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Node.js",
+        "REST API",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Medio",
+      "keywords": [
+        "Bases de Datos",
+        "MySQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Jest",
+      "level": "Medio",
+      "keywords": [
+        "Testing",
+        "Unit Testing",
+        "JavaScript",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Avanzado",
       "keywords": [
@@ -166,96 +320,6 @@
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Medio",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Medio",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Medio",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
       "name": "Astro",
       "level": "Medio",
       "keywords": [
@@ -266,23 +330,13 @@
       ]
     },
     {
-      "name": "Zustand",
+      "name": "GitHub",
       "level": "Medio",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Server"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     }
   ],
@@ -313,9 +367,21 @@
   ],
   "projects": [
     {
+      "name": "Finwey (Founder & Lead Developer)",
+      "isActive": false,
+      "description": "Plataforma SaaS de gestión financiera con IA. Diseñé la arquitectura completa en Supabase y desarrollé la App móvil con React Native (Expo), integrando escaneo automatizado de documentos.",
+      "highlights": [
+        "React Native",
+        "Expo",
+        "Supabase",
+        "AI"
+      ],
+      "url": null
+    },
+    {
       "name": "Boticario",
       "isActive": true,
-      "description": "Gestor de inventario para un dispensario, control de usuarios, dispensaciones y envios etc.",
+      "description": "Sistema integral de gestión de inventario para dispensarios. Control de stock en tiempo real, administración de roles de usuario y trazabilidad de envíos.",
       "highlights": [
         "Operativo",
         "React",
@@ -327,22 +393,9 @@
       "url": null
     },
     {
-      "name": "Finnwey",
-      "isActive": false,
-      "description": "Sistema de gestión de finanzas personales con IA integrada para recomendaciones futuras.",
-      "highlights": [
-        "En desarrollo",
-        "React Native",
-        "Expo",
-        "Nativewind",
-        "Supabase"
-      ],
-      "url": null
-    },
-    {
       "name": "Gestor de citas médicas",
       "isActive": true,
-      "description": "Sistema de gestión de citas médicas para una clínica.",
+      "description": "Plataforma de agendamiento clínico automatizado. Gestión eficiente de disponibilidad médica, historial de pacientes y administración de horas.",
       "highlights": [
         "Finalizado",
         "Django",
@@ -353,38 +406,37 @@
       "url": null
     },
     {
-      "name": "Monbak",
+      "name": "Proyectos Monbak",
       "isActive": true,
-      "description": "Web oficial de Monbak, una empresa chilena dedicada a la creación de software a medida para diversos sectores empresariales.",
+      "description": "Liderazgo técnico en desarrollo de aplicaciones críticas. Ejecuté migraciones a Cloud (AWS), integración de pagos (Webpay) y refactorización de sistemas legacy para mejorar la escalabilidad.",
       "highlights": [
-        "Operativo",
-        "Astro",
-        "Tailwind",
-        "TypeScript"
+        "React",
+        "AWS",
+        "Testing",
+        "Refactoring"
       ],
       "url": "https://monbak.com"
     },
     {
-      "name": "Aquacore",
+      "name": "Aquacore (Suralis)",
       "isActive": true,
-      "description": "Web oficial de Aquacore, proceso de reestructuración de la empresa Suralis Chile.",
+      "description": "Portal corporativo de alto rendimiento para la reestructuración digital de Suralis. Optimizado con Astro y Framer Motion para máximas puntuaciones en Core Web Vitals y SEO.",
       "highlights": [
-        "Operativo",
-        "React",
-        "Tailwind",
-        "TypeScript",
-        "Motion JS"
+        "Astro",
+        "Framer Motion",
+        "Core Web Vitals",
+        "SEO"
       ],
       "url": "https://pruebastecnicas.com"
     },
     {
       "name": "Registro de asistencia",
-      "description": "Sistema de registro de asistencia para institución estudiantil con codigo QR.",
+      "description": "Sistema de registro de asistencia para institución estudiantil con código QR.",
       "highlights": [
         "Finalizado",
         "Ionic",
         "Bootstrap",
-        "Firabase"
+        "Firebase"
       ]
     }
   ]
