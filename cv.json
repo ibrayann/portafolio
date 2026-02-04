@@ -4,8 +4,8 @@
     "label": "Frontend Developer | React & Next.js | Supabase & AI Integrations | Product-Oriented",
     "image": "/me.JPG",
     "email": "br.gaticag@gmail.com",
-    "phone": "+56 9 71786739",
-    "url": "https://brayangatica.com",
+    "phone": "+56971786739",
+    "url": "https://brayangatica.netlify.app",
     "summary": "Desarrollador Full Stack con +2 años de experiencia construyendo productos digitales escalables. Especializado en el ecosistema React (Next.js, Expo) y arquitecturas modernas con Supabase.\n\nMe diferencio por tener mentalidad de producto: no solo escribo código, sino que diseño soluciones eficientes enfocadas en la experiencia de usuario y el negocio. Busco desafíos remotos donde pueda aportar valor técnico inmediato.",
     "location": {
       "address": "",
@@ -33,11 +33,11 @@
       "position": "Front-End Developer",
       "url": "https://www.monbak.com",
       "startDate": "2023-03-20",
-      "endDate": null,
+      "endDate": "2025-11-31",
       "summary": "Desarrollador líder en el ciclo completo de múltiples proyectos críticos, abarcando desde la arquitectura inicial y migración tecnológica hasta el despliegue en producción.",
       "highlights": [
         "Arquitectura de Sistemas & Scalability: Diseñé desde cero la arquitectura Frontend para plataformas de gestión empresarial utilizando React, Tailwind y Zustand. Implementé estrategias de testing con Jest y optimización de caché con React Query.",
-        "Cloud Migration & Integraciones Fintech: Lideré la migración de sistemas locales a la nube (AWS), implementando Amazon S3 y AWS Textract para el procesamiento inteligente de documentos e integración de pasarelas de pago (Webpay).",
+        "Cloud Migration & Integraciones Fintech: Lideré la migración de sistemas locales a la nube (AWS), implementando Amazon S3 y AWS Textract para el procesamiento inteligente de documentos e integración de pasarelas de pago (Mercadopago).",
         "Modernización de Legacy (Refactoring): Ejecuté la refactorización de sistemas críticos, migrando bases de código de React Class Components a Hooks y Arquitectura Funcional, mejorando la mantenibilidad y rendimiento.",
         "Desarrollo Web de Alto Rendimiento: Creación de portales corporativos optimizados utilizando Astro y Framer Motion, logrando métricas sobresalientes en Core Web Vitals."
       ]
@@ -149,13 +149,80 @@
   ],
   "skills": [
     {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": [
+        "Mobile Development",
+        "Expo",
+        "Cross-platform",
+        "iOS",
+        "Android",
+        "NativeWind"
+      ]
+    },
+    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
         "JavaScript Library",
-        "UI"
+        "UI",
+        "Hooks"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset",
+        "Strict Types"
+      ]
+    },
+    {
+      "name": "Supabase",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend",
+        "Database",
+        "Authentication",
+        "Edge Functions",
+        "PostgreSQL",
+        "Realtime"
+      ]
+    },
+    {
+      "name": "AI Integration",
+      "level": "Medio",
+      "keywords": [
+        "Gemini API",
+        "LLMs",
+        "Prompt Engineering",
+        "Computer Vision",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "level": "Avanzado",
+      "keywords": [
+        "State Management",
+        "Frontend",
+        "Mobile",
+        "Store"
       ]
     },
     {
@@ -170,47 +237,6 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "React Native",
-      "level": "Medio",
-      "keywords": [
-        "Mobile Development",
-        "Expo",
-        "Cross-platform",
-        "iOS",
-        "Android"
-      ]
-    },
-    {
-      "name": "Zustand",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "State Management",
-        "UI"
-      ]
-    },
-    {
-      "name": "Tailwind CSS",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
       "name": "Shadcn/ui",
       "level": "Medio",
       "keywords": [
@@ -221,36 +247,14 @@
       ]
     },
     {
-      "name": "Supabase",
-      "level": "Medio",
-      "keywords": [
-        "Backend",
-        "Database",
-        "Authentication",
-        "Realtime",
-        "BaaS"
-      ]
-    },
-    {
       "name": "AWS",
       "level": "Medio",
       "keywords": [
         "Cloud Computing",
         "Infrastructure",
         "S3",
-        "Textract",
+        "Lambda",
         "DevOps"
-      ]
-    },
-    {
-      "name": "Express.js",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Node.js",
-        "REST API",
-        "Servidor"
       ]
     },
     {
@@ -260,7 +264,8 @@
         "Desarrollo Web",
         "Backend",
         "JavaScript",
-        "Servidor"
+        "Servidor",
+        "Deno"
       ]
     },
     {
@@ -268,19 +273,9 @@
       "level": "Medio",
       "keywords": [
         "Bases de Datos",
-        "MySQL",
-        "Almacenamiento de Datos",
+        "PostgreSQL",
+        "Queries",
         "Backend"
-      ]
-    },
-    {
-      "name": "Jest",
-      "level": "Medio",
-      "keywords": [
-        "Testing",
-        "Unit Testing",
-        "JavaScript",
-        "Quality Assurance"
       ]
     },
     {
@@ -288,8 +283,9 @@
       "level": "Medio",
       "keywords": [
         "Control de Versiones",
+        "GitHub",
         "Colaboración",
-        "Código Fuente"
+        "CI/CD"
       ]
     },
     {
@@ -299,24 +295,7 @@
         "Desarrollo Web",
         "Frontend",
         "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
+        "ES6+"
       ]
     },
     {
@@ -325,18 +304,17 @@
       "keywords": [
         "Desarrollo Web",
         "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Static Site Generation",
+        "Performance"
       ]
     },
     {
-      "name": "GitHub",
+      "name": "Testing (Jest)",
       "level": "Medio",
       "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
+        "Unit Testing",
+        "JavaScript",
+        "Quality Assurance"
       ]
     }
   ],
@@ -366,6 +344,20 @@
     }
   ],
   "projects": [
+    {
+      "name": "Nutrivista (Founder & Lead Developer) ",
+      "isActive": true,
+      "description": "App móvil de nutrición inteligente. Desarrollo end-to-end con React Native y Expo. Integra visión artificial (Gemini) para análisis de alimentos, gestión de estado con Zustand, notificaciones locales y sistema de suscripciones (RevenueCat) con Supabase como backend.",
+      "highlights": [
+        "React Native",
+        "Expo",
+        "Supabase",
+        "Gemini AI",
+        "Zustand",
+        "NativeWind"
+      ],
+      "url": null
+    },
     {
       "name": "Finwey (Founder & Lead Developer)",
       "isActive": false,
@@ -408,7 +400,7 @@
     {
       "name": "Proyectos Monbak",
       "isActive": true,
-      "description": "Liderazgo técnico en desarrollo de aplicaciones críticas. Ejecuté migraciones a Cloud (AWS), integración de pagos (Webpay) y refactorización de sistemas legacy para mejorar la escalabilidad.",
+      "description": "Liderazgo técnico en desarrollo de aplicaciones críticas. Ejecuté migraciones a Cloud (AWS), integración de pagos (Mercadopago) y refactorización de sistemas legacy para mejorar la escalabilidad.",
       "highlights": [
         "React",
         "AWS",
@@ -428,16 +420,6 @@
         "SEO"
       ],
       "url": "https://pruebastecnicas.com"
-    },
-    {
-      "name": "Registro de asistencia",
-      "description": "Sistema de registro de asistencia para institución estudiantil con código QR.",
-      "highlights": [
-        "Finalizado",
-        "Ionic",
-        "Bootstrap",
-        "Firebase"
-      ]
     }
   ]
 }
