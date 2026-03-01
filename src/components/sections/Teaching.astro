@@ -1,0 +1,101 @@
+---
+import Section from "../Section.astro";
+import { volunteer } from "@cv";
+---
+
+<Section title="Experiencia docente técnica">
+    <ul>
+        {
+            volunteer.map(
+                ({
+                    organization,
+                    startDate,
+                    endDate,
+                    position,
+                    summary,
+                    url,
+                }) => {
+                    const startYear = new Date(startDate).getFullYear();
+                    const endYear =
+                        endDate != null
+                            ? new Date(endDate).getFullYear()
+                            : "Actual";
+
+                    return (
+                        <li>
+                            <article>
+                                <header>
+                                    <div>
+                                        <h3>
+                                            <a
+                                                href={url}
+                                                title={`Ver ${organization}`}
+                                                target="_blank"
+                                            >
+                                                {organization}
+                                            </a>
+                                            <span class="position">
+                                                {" "}
+                                                — {position} ({startYear}–
+                                                {endYear})
+                                            </span>
+                                        </h3>
+                                    </div>
+                                </header>
+                                <footer>
+                                    <p>{summary}</p>
+                                </footer>
+                            </article>
+                        </li>
+                    );
+                },
+            )
+        }
+    </ul>
+</Section>
+
+<style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    article h3 {
+        font-weight: 500;
+        color: #111;
+    }
+
+    article a {
+        color: #111;
+    }
+
+    article a:hover {
+        text-decoration: underline;
+    }
+
+    .position {
+        color: #555;
+        font-weight: 400;
+        font-size: 0.9rem;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 4px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    footer p {
+        color: #666;
+        font-size: 0.85rem;
+        line-height: 1.4;
+    }
+</style>

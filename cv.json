@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Brayan Gatica Gutierrez",
-    "label": "Frontend Developer | React & Next.js | Supabase & AI Integrations | Product-Oriented",
+    "label": "Full Stack Developer — React · React Native · Supabase · AI",
     "image": "/me.JPG",
     "email": "br.gaticag@gmail.com",
     "phone": "+56971786739",
     "url": "https://brayangatica.netlify.app",
-    "summary": "Desarrollador Full Stack con +3 años de experiencia construyendo productos digitales escalables. Especializado en el ecosistema React (Next.js, Expo) y arquitecturas modernas con Supabase.\n\nMe diferencio por tener mentalidad de producto: no solo escribo código, sino que diseño soluciones eficientes enfocadas en la experiencia de usuario y el negocio. Busco desafíos remotos donde pueda aportar valor técnico inmediato.",
+    "summary": "+3 años construyendo productos digitales en producción con React, React Native y Supabase. Visión de producto + ejecución técnica: diseño, desarrollo y despliegue end-to-end. He liderado migraciones cloud, integrado AI (Gemini) en apps móviles y llevado productos propios desde cero a producción.",
     "location": {
       "address": "",
       "postalCode": "4050000",
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "brayangatica",
-        "url": "https://www.linkedin.com/in/brayan-gatica-gutierrez-702b1026b/"
+        "url": "https://www.linkedin.com/in/brayangatica-dev/"
       },
       {
         "network": "GitHub",
@@ -32,43 +32,26 @@
       "name": "Monbak",
       "position": "Front-End Developer",
       "url": "https://www.monbak.com",
-      "startDate": "2023-03-20",
+      "startDate": "2022-03-20",
       "endDate": "2025-11-31",
-      "summary": "Desarrollador líder en el ciclo completo de múltiples proyectos críticos, abarcando desde la arquitectura inicial y migración tecnológica hasta el despliegue en producción.",
+      "summary": "",
       "highlights": [
-        "Arquitectura de Sistemas & Scalability: Diseñé desde cero la arquitectura Frontend para plataformas de gestión empresarial utilizando React, Tailwind y Zustand. Implementé estrategias de testing con Jest y optimización de caché con React Query.",
-        "Cloud Migration & Integraciones Fintech: Lideré la migración de sistemas locales a la nube (AWS), implementando Amazon S3 y AWS Textract para el procesamiento inteligente de documentos e integración de pasarelas de pago (Mercadopago).",
-        "Modernización de Legacy (Refactoring): Ejecuté la refactorización de sistemas críticos, migrando bases de código de React Class Components a Hooks y Arquitectura Funcional, mejorando la mantenibilidad y rendimiento.",
-        "Desarrollo Web de Alto Rendimiento: Creación de portales corporativos optimizados utilizando Astro y Framer Motion, logrando métricas sobresalientes en Core Web Vitals."
+        "Diseñé la arquitectura frontend de 3 plataformas empresariales (React + Zustand + React Query), reduciendo tiempos de carga ~40% con caching estratégico.",
+        "Lideré migración a AWS (S3 + Textract) e integré Mercadopago, automatizando procesamiento de documentos para +500 usuarios.",
+        "Refactoricé codebase legacy (Class Components → Hooks), mejorando mantenibilidad y reduciendo bugs recurrentes ~30%.",
+        "Desarrollé portal corporativo con Astro logrando 95+ en Lighthouse (Performance, SEO, Accessibility)."
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Duoc UC",
-      "position": "Tutor Modelamiento de Base de Datos",
+      "position": "Tutor de Modelamiento de BD y Programación Orientada a Objetos",
       "url": "https://www.duoc.cl/",
       "startDate": "2022-01-02",
-      "endDate": "2022-01-02",
-      "summary": "Encargado de apoyar a estudiantes en el aprendizaje y comprensión de la asignatura de Modelamiento de Base de Datos, resolviendo dudas teóricas y prácticas, y reforzando el uso de herramientas como Oracle.",
-      "highlights": [
-        "Oracle",
-        "Modelamiento entidad-relación",
-        "Normalización de bases de datos"
-      ]
-    },
-    {
-      "organization": "Duoc UC",
-      "position": "Tutor Programación Orientada a Objetos",
-      "url": "https://duoc.cl/",
-      "startDate": "2023-01-02",
       "endDate": "2023-01-02",
-      "summary": "Apoyo académico a estudiantes en la asignatura de Programación Orientada a Objetos, facilitando la comprensión de conceptos clave como clases, herencia y encapsulamiento, con foco en el lenguaje Java.",
-      "highlights": [
-        "Java",
-        "POO",
-        "Resolución de ejercicios prácticos"
-      ]
+      "summary": "Tutorías técnicas a +30 estudiantes en bases de datos (Oracle, normalización) y POO (Java), reforzando comprensión práctica de conceptos clave.",
+      "highlights": []
     }
   ],
   "education": [
@@ -81,117 +64,68 @@
       "endDate": "2025-12-31",
       "score": "4.0",
       "courses": [
-        "Análisis y planificación de requerimientos informáticos",
-        "Gestión de proyectos informáticos",
-        "Programación de software",
-        "Inteligencia de negocios",
-        "Análisis y desarrollo de modelos de datos",
         "Arquitectura de software",
-        "Calidad de software",
-        "Inglés intermedio"
+        "Gestión de proyectos informáticos",
+        "Análisis y desarrollo de modelos de datos"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Análisis y Planificación de Requerimientos Informáticos",
-      "date": "2023-01-02",
-      "issuer": "Duoc UC",
-      "url": null
-    },
-    {
-      "name": "Análisis y Desarrollo de Modelos de Datos",
-      "date": "2023-01-02",
-      "issuer": "Duoc UC",
-      "url": null
-    },
-    {
-      "name": "Calidad de Software",
-      "date": "2023-01-02",
-      "issuer": "Duoc UC",
-      "url": null
-    },
-    {
-      "name": "Programación de Software",
-      "date": "2023-01-02",
-      "issuer": "Duoc UC",
-      "url": null
-    },
-    {
-      "name": "Arquitectura de Software",
-      "date": "2024-01-02",
-      "issuer": "Duoc UC",
-      "url": null
-    },
-    {
-      "name": "Certificación Internacional en Inglés - Nivel Intermedio",
-      "date": "2024-01-02",
-      "issuer": "Duoc UC",
-      "url": null
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
     }
   ],
   "skills": [
     {
-      "name": "React Native",
+      "name": "React / React Native",
       "level": "Avanzado",
       "keywords": [
-        "Mobile Development",
+        "Web",
+        "Mobile",
         "Expo",
-        "Cross-platform",
-        "iOS",
-        "Android",
-        "NativeWind"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI",
-        "Hooks"
+        "Hooks",
+        "Cross-platform"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
         "JavaScript Superset",
-        "Strict Types"
+        "Strict Types",
+        "Full Stack"
       ]
     },
     {
-      "name": "Supabase",
+      "name": "Next.js / Astro",
       "level": "Avanzado",
       "keywords": [
-        "Backend",
-        "Database",
-        "Authentication",
+        "SSR",
+        "Static Generation",
+        "Performance"
+      ]
+    },
+    {
+      "name": "Supabase / PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Auth",
         "Edge Functions",
-        "PostgreSQL",
-        "Realtime"
+        "Realtime",
+        "Database"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Responsive Design",
+        "NativeWind",
+        "Design Systems"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Medio",
+      "keywords": [
+        "S3",
+        "Textract",
+        "Cloud Infrastructure"
       ]
     },
     {
@@ -199,122 +133,18 @@
       "level": "Medio",
       "keywords": [
         "Gemini API",
-        "LLMs",
         "Prompt Engineering",
-        "Computer Vision",
-        "Automation"
+        "Computer Vision"
       ]
     },
     {
-      "name": "Tailwind CSS",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "Zustand",
-      "level": "Avanzado",
-      "keywords": [
-        "State Management",
-        "Frontend",
-        "Mobile",
-        "Store"
-      ]
-    },
-    {
-      "name": "Next.js",
+      "name": "Testing / Git",
       "level": "Medio",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "Shadcn/ui",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "UI Components",
-        "Design System"
-      ]
-    },
-    {
-      "name": "AWS",
-      "level": "Medio",
-      "keywords": [
-        "Cloud Computing",
-        "Infrastructure",
-        "S3",
-        "Lambda",
-        "DevOps"
-      ]
-    },
-    {
-      "name": "Node.js",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor",
-        "Deno"
-      ]
-    },
-    {
-      "name": "SQL",
-      "level": "Medio",
-      "keywords": [
-        "Bases de Datos",
-        "PostgreSQL",
-        "Queries",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Medio",
-      "keywords": [
-        "Control de Versiones",
+        "Jest",
+        "CI/CD",
         "GitHub",
-        "Colaboración",
-        "CI/CD"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "ES6+"
-      ]
-    },
-    {
-      "name": "Astro",
-      "level": "Medio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Static Site Generation",
-        "Performance"
-      ]
-    },
-    {
-      "name": "Testing (Jest)",
-      "level": "Medio",
-      "keywords": [
-        "Unit Testing",
-        "JavaScript",
-        "Quality Assurance"
+        "Code Quality"
       ]
     }
   ],
@@ -328,98 +158,47 @@
       "fluency": "Basic"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
   "projects": [
     {
-      "name": "Nutrivista (Founder & Lead Developer) ",
+      "name": "Nutrivista",
       "isActive": true,
-      "description": "App móvil de nutrición inteligente. Desarrollo end-to-end con React Native y Expo. Integra visión artificial (Gemini) para análisis de alimentos, gestión de estado con Zustand, notificaciones locales y sistema de suscripciones (RevenueCat) con Supabase como backend.",
+      "description": "App de nutrición con IA. Desarrollo end-to-end: visión artificial (Gemini) para análisis de alimentos, suscripciones (RevenueCat), notificaciones y backend serverless con Supabase.",
       "highlights": [
         "React Native",
         "Expo",
         "Supabase",
         "Gemini AI",
-        "Zustand",
-        "NativeWind"
+        "Zustand"
       ],
-      "url": null
-    },
-    {
-      "name": "Finwey (Founder & Lead Developer)",
-      "isActive": false,
-      "description": "Plataforma SaaS de gestión financiera con IA. Diseñé la arquitectura completa en Supabase y desarrollé la App móvil con React Native (Expo), integrando escaneo automatizado de documentos.",
-      "highlights": [
-        "React Native",
-        "Expo",
-        "Supabase",
-        "AI"
-      ],
-      "url": null
+      "url": null,
+      "role": "Founder & Lead Developer"
     },
     {
       "name": "Boticario",
       "isActive": true,
-      "description": "Sistema integral de gestión de inventario para dispensarios. Control de stock en tiempo real, administración de roles de usuario y trazabilidad de envíos.",
+      "description": "Sistema de gestión de inventario. Lideré el frontend completo: arquitectura, selección de librerías, testing y control de stock en tiempo real con roles de usuario.",
       "highlights": [
-        "Operativo",
         "React",
         "Zustand",
-        "shadcn UI",
-        "Axios",
-        "tailwind"
+        "Jest",
+        "shadcn/ui",
+        "Tailwind"
       ],
-      "url": null
-    },
-    {
-      "name": "Gestor de citas médicas",
-      "isActive": true,
-      "description": "Plataforma de agendamiento clínico automatizado. Gestión eficiente de disponibilidad médica, historial de pacientes y administración de horas.",
-      "highlights": [
-        "Finalizado",
-        "Django",
-        "Python",
-        "Bootstrap",
-        "Flask"
-      ],
-      "url": null
+      "url": null,
+      "role": "Frontend Lead"
     },
     {
       "name": "Proyectos Monbak",
       "isActive": true,
-      "description": "Liderazgo técnico en desarrollo de aplicaciones críticas. Ejecuté migraciones a Cloud (AWS), integración de pagos (Mercadopago) y refactorización de sistemas legacy para mejorar la escalabilidad.",
+      "description": "Liderazgo técnico en apps críticas: migraciones a AWS, integración de pagos (Mercadopago) y refactorización de sistemas legacy para mejorar escalabilidad.",
       "highlights": [
         "React",
         "AWS",
         "Testing",
         "Refactoring"
       ],
-      "url": "https://monbak.com"
-    },
-    {
-      "name": "Aquacore (Suralis)",
-      "isActive": true,
-      "description": "Portal corporativo de alto rendimiento para la reestructuración digital de Suralis. Optimizado con Astro y Framer Motion para máximas puntuaciones en Core Web Vitals y SEO.",
-      "highlights": [
-        "Astro",
-        "Framer Motion",
-        "Core Web Vitals",
-        "SEO"
-      ],
-      "url": "https://pruebastecnicas.com"
+      "url": "https://monbak.com",
+      "role": "Frontend Developer"
     }
   ]
 }
